@@ -94,3 +94,6 @@ float fuzzyRuleOr(float rendah[]){
     }
     return Nmax;
 }
+
+
+
